@@ -13,8 +13,7 @@ namespace FO_Revision
             String cont = "y";
             while (cont == "y" || cont == "Y")
             {
-                //Student_Fixed s = new Student_Fixed();
-                Student_Variable s = new Student_Variable();
+                Student_Fixed s = new Student_Fixed();
 
                 Console.Clear();
 
